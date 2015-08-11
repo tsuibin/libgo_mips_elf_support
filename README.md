@@ -1,0 +1,2 @@
+# libgo_mips_elf_support
+libgo_mips_elf_support
